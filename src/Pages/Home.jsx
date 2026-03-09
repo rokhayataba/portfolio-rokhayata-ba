@@ -3,7 +3,7 @@ import { useState } from "react";
 import aboutImg from "../Assets/about.jpeg";
 
 function Home() {
-  const [darkMode, setDarkMode] = useState(Fasle); // mode sombre activé par défaut
+  const [darkMode, setDarkMode] = useState(false); // mode sombre activé par défaut
 
   return (
     <div className={darkMode ? "dark" : ""}>

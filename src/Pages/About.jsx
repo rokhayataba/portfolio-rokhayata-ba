@@ -12,7 +12,7 @@ function About() {
           <img
             src={aboutImg}
             alt="Rokhayata Bâ"
-            className="w-80 h-80 md:w-96 md:h-96 object-cover rounded-lg border-4 border-gray-700"
+            className="w-80 h-45 md:w-96 md:h-96 object-cover rounded-lg border-4 border-gray-700"
           />
         </div>
 

@@ -1,6 +1,6 @@
 // src/Pages/About.jsx
 import aboutImg from "../Assets/yata.jpeg";
-import cvImage from "../Assets/cv rohayata ba.jpeg"; // ton CV en image
+import cvImage from "../Assets/cv rokhayataba.jpeg"; // ton CV en image
 
 function About() {
   return (

@@ -1,26 +1,26 @@
 // src/Pages/Projects.jsx
 import ProjectCard from "../Components/ProjectCard";
 import portfolioImg from "../Assets/porfolio.jpeg";
-import meteoImg from "../Assets/meteo.jpeg";
+import logoImg from "../Assets/logo.jpeg";
 import ecommerceImg from "../Assets/e-commerce.jpeg";
 
 const projects = [
   {
     id: 1,
     title: "Portfolio React",
-    description: "Portfolio moderne créé avec React et Tailwind CSS.",
+    description: "Site web personnel développé pour présenter mon profil, mes compétences et mes projets. Le site possède plusieurs sections comme Home, About, Skills et Projects avec un design moderne et responsive.",
     image: portfolioImg
   },
   {
     id: 2,
-    title: "Application météo",
-    description: "Application météo utilisant une API pour afficher la météo.",
-    image: meteoImg
+    title: "Image sur canva",
+    description: "Affiche promotionnelle réalisée sur Canva pour annoncer une soirée de Saint-Valentin du Yata Club, avec un design romantique mettant en avant la date, l’heure et le prix d’entrée.",
+    image: logoImg
   },
   {
     id: 3,
-    title: "Site E-commerce",
-    description: "Site de vente en ligne simple avec produits et panier.",
+    title: "Site E-commerce Wordpress",
+    description: "Yata Store est une boutique en ligne de vêtements que j’ai créée avec WordPress. Le site permet aux utilisateurs de parcourir différents articles, consulter les détails des produits et naviguer facilement dans la boutique grâce à une interface moderne et simple.",
     image: ecommerceImg
   }
 ];

@@ -1,5 +1,5 @@
 // src/Pages/Home.jsx
-import aboutImg from "../Assets/about.jpeg";
+import aboutImg from "../Assets/about .jpeg";
 
 function Home() {
   return (
